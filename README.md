@@ -1,2 +1,1 @@
-# assignement03
-repo for assignment 03
+# D3 Project Starter Template
